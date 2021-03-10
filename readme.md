@@ -1,5 +1,5 @@
 <h2>Edurevol _project </h2>
-<h4>a simple project where you can select section and cource d and youtube link and store it in database also you can filter the youtube thumblines based on courceid and section</h4>
+<h4>a simple project where you can select section and cource id and youtube link and store it in database also you can filter the youtube thumbnail based on courceid and section</h4>
 <h3>Goal</h3>
 <p>Develop a simple application that takes an input from the user and display the data on a page. The user will provide course id, section and Youtube url as an input in a form. The data shall be saved in the database.the url store only video_id of the youtube link so that it is easy to use
 </p>
